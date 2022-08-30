@@ -1,0 +1,21 @@
+body {
+  background-color: #f7f6dc;
+  font-family: "poppins", sans-serif;
+}
+
+button {
+  border-radius: 15px;
+  cursor: pointer;
+  padding: 7px;
+  border: none;
+  box-shadow: 0px 1px 1px 2px #888888;
+}
+
+.container {
+  margin-top: 15%;
+  text-align: center;
+}
+
+.container h1 {
+  color: #fa9494;
+}
